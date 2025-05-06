@@ -1,24 +1,25 @@
-# 🍽️ Zomato EDA Project
+# 🎬 Netflix EDA Project
 
-This project performs **Exploratory Data Analysis (EDA)** on Zomato’s restaurant data using Python libraries like `pandas`, `matplotlib`, and `seaborn`. The goal is to derive insights about restaurant types, locations, ratings, and cuisine trends in India (especially in urban cities).
-
----
-
-## 📂 Project Files
-
-- `Zomato_EDA_Project.ipynb` – Jupyter notebook containing full step-by-step analysis with visualizations.
-- `zomato.csv` – Dataset used for analysis (from Kaggle or Zomato’s public data).
-- `requirements.txt` – List of Python packages required to run this project.
+This project is a **complete Exploratory Data Analysis (EDA)** of Netflix's content catalog using Python. It helps uncover insights about the types of content available on Netflix, trends in release years, ratings, genres, and the presence of movies vs. TV shows.
 
 ---
 
-## 📊 Key Analysis Performed
+## 📁 Project Files
 
-- Top-rated restaurants by city
-- Most common cuisines and restaurant types
-- Relationship between rating, price, and votes
-- Location-wise distribution of restaurants
-- Heatmaps and pie charts for categorical features
+- `Netflix_EDA_Project.ipynb` – Jupyter notebook with step-by-step EDA using visualizations.
+- `Netflix Dataset.csv` – Dataset containing Netflix titles and metadata.
+- `requirements.txt` – Python libraries required to run the project.
+
+---
+
+## 📊 Key Insights
+
+- Content distribution: Movies vs. TV Shows  
+- Country-wise and year-wise content trends  
+- Ratings distribution (TV-MA, PG, etc.)  
+- Top directors and actors featured on Netflix  
+- Duration analysis for both Movies and TV Shows  
+- Heatmaps and pie charts for categorical data
 
 ---
 
